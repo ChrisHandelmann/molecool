@@ -7,6 +7,8 @@ molecool
 
 A python package for analyzing and visualzing xyz files.
 
+Monty Python rules
+
 ### Copyright
 
 Copyright (c) 2020, Chris Handelmann
