@@ -16,3 +16,7 @@ Copyright (c) 2020, Chris Handelmann
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+'pip install -e .'
+
+in the repository
